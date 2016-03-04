@@ -1,6 +1,6 @@
 {
-  "name": "map-o",
-  "version": "2.0.1",
+  "name": "@br/map-o",
+  "version": "2.0.2",
   "description": "Array-map like function for objects.",
   "main": "lib/index.js",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IonicaBizau/node-map-o.git"
+    "url": "https://github.com/br/node-map-o.git"
   },
   "keywords": [
     "map",
@@ -21,11 +21,14 @@
     "object"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "contributors": [
+    "Alexander Quine <alxndr+npm@gmail.com> (http://eleven-twelve.net)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/node-map-o/issues"
+    "url": "https://github.com/br/node-map-o/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-map-o",
+  "homepage": "https://github.com/br/node-map-o",
   "dependencies": {
     "iterate-object": "^1.3.0"
   },
