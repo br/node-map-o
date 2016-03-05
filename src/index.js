@@ -1,5 +1,5 @@
 // Dependencies
-const iterateObject = require("iterate-object");
+const iterateObject = require("@br/iterate-object");
 
 /**
  * mapObject
